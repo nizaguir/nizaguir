@@ -5,6 +5,9 @@
 - 📫 How to reach me:
 nataliajensenn@gmail.com
 
+- Projects I have done:
+  - Ecommerce App: Built using Node.js, Express, and MongoDb.  https://cse341-ecommerceapp.herokuapp.com/ (Please create an account to see the features of the app.)
+
 <!---
 nizaguir/nizaguir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
