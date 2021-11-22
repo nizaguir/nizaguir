@@ -4,6 +4,7 @@
 - 💞️ I’m looking for opportunities to take on real projects such as developing websites with the skills I have. 
 - 📫 How to reach me:
 nataliajensenn@gmail.com
+https://www.linkedin.com/in/nataliajensen/
 
 - Projects I have done:
   - Ecommerce App: Built using Node.js, Express, and MongoDb.  https://cse341-ecommerceapp.herokuapp.com/ (Please create an account to see the features of the app.)
