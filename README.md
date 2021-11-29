@@ -8,7 +8,7 @@
 
 - Projects:
   - Ecommerce App: Built using Node.js, Express, and MongoDb.  https://cse341-ecommerceapp.herokuapp.com/ (Please create an account to see the features of the app.)
-
+  - The Weather Site: Static website using HTML, CSS, and Javascript. The site is meant to inform Eastern Idaho residents for weather and town related information. https://nizaguir.github.io/todayWillBe/ 
 <!---
 nizaguir/nizaguir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
