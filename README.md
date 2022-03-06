@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Natalia Jensen
-- 👀 I’m interested in web development especially in front-end development and web design. 
-- 🌱 I’m currently learning PHP, Node.js, and strengthening JavaScript. In my free time I study UX/UI design. 
+- 👀 I’m interested in front-end development and web design. 
+- 🌱 I’m currently learning PHP, Node.js, and strengthening my JavaScript skills. In my free time I like to study UX/UI design on youtube and other free resources. 
 - 💞️ I’m seeking for opportunities to take on real projects such as developing websites, mobile apps, and continue to learn and expand my skills. 
 - 📫 How to reach me:
   - nataliajensenn@gmail.com
