@@ -5,11 +5,12 @@
 - 📫 How to reach me:
   - nataliajensenn@gmail.com
   - https://www.linkedin.com/in/nataliajensen/
-
+<!---
 - Projects:
   - Ecommerce App: Built using Node.js, Express, and MongoDb.  https://cse341-ecommerceapp.herokuapp.com/ (Please create an account to see the features of the app.)
   - The Weather Site: Static website using HTML, CSS, and Javascript. The site is meant for Eastern Idaho residents for weather and town related information. https://nizaguir.github.io/todayWillBe/ 
-
+  --->
+  
 <!---
 - What am I currently working on! 👩🏻‍💻
   - My personal blog!
